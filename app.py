@@ -1,8 +1,6 @@
 from flask import Flask, render_template,request, redirect, url_for, jsonify, session
 import flask_login
 import json
-import stripe
-from flask_mail import Mail, Message
 from typing_extensions import Protocol
 import werkzeug.exceptions
 from flask_session import Session
