@@ -1,0 +1,7 @@
+Flask
+Gunicorn
+Flask_Login==0.6.2
+pysondb==1.6.7
+typing_extensions==4.5.0
+Werkzeug==2.2.3
+Flask-Session==0.4.0
